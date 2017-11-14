@@ -1,2 +1,2 @@
 # Estruturas-de-dados-Fila
-Feito em c++ e compilado na IDE DevC++, feito para estudo
+Códico de estrutura de dados: fila feito em c++
